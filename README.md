@@ -10,7 +10,7 @@ I also enjoy improving my skills be learning something new and applying them to 
  <a href="https://www.instagram.com/oleksandr_hrakhov" title="Redirect to Instagram">
     <img src="/assets/instagram.png" width="120" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/oleksandr_hrakhov/" title="Redirect to LinkedIn">
+  <a href="https://www.linkedin.com/in/oleksandr-hrakhov-a87b56183/" title="Redirect to LinkedIn">
     <img src="/assets/linkedin.png" width="120" alt="LinkedIn" />
   </a>
 
