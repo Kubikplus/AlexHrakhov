@@ -4,7 +4,7 @@
 I also enjoy improving my skills be learning something new and applying them to new projects.
 * Working with a different mobile apps
 * Ask me about Android, UI/UX Design
-* Available for your next project
+* Available for your next projects
 ### Reach me via 👇
 
  <a href="https://www.instagram.com/oleksandr_hrakhov" title="Redirect to Instagram">
